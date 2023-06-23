@@ -20,5 +20,5 @@ Test both models using the testing data.
 Evaluate the performance of the models after testing and observe the results using some evolution metrics parameters like Accuracy, Precision, Recall, F1Score, Area Under curve, Accuracy-epoch curve, and Loss-Epoch curve.
 after evaluating EfficientNetB3 gives better results than MobileNet for the given Dataset.
 
-# Develop a Graphical User Interface using the efficientNetB3 algorithm.
-Develop a GUI, Where the user uploads the patients microscopic blood image to check whether it contains ALL cancer or not.
+# Develop a Graphical User Interface using the MobileNet algorithm.
+Develop a GUI, Where the user uploads the patient's microscopic blood image to check whether it contains ALL cancer or not.
