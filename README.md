@@ -1,4 +1,4 @@
-# Classification-of-ALL-using-MobileNet-and-EfficientNetB3
+# Classification-of-Acute Lymphoblastic Leukemia (ALL)-using-MobileNet-and-EfficientNetB3
 The project involves the Classification of ALL using the Mobilenet and EfficientNetB3.
 
 # DataSet
